@@ -1,0 +1,3 @@
+[submodule "osmtracker"]
+	path = osmtracker
+	url = git@github.com:ssinger/osmtracker.git
